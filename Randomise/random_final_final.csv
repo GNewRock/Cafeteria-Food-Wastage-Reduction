@@ -1,0 +1,311 @@
+Date,Day,Item,Ordered,Month,Percentage Consumed,Week,Footfall,Number of Plates Consumed
+11/3/2016,Thursday,Walnut Muffin,750,November,85.937,1,700,645
+11/3/2016,Thursday,Samosa,900,November,88.48,1,708,796
+11/4/2016,Friday,Brownie,750,November,89.478,1,651,671
+11/4/2016,Friday,Salt Biscuit,850,November,89.123,1,691,758
+11/7/2016,Monday,Orange Muffin,950,November,86.793,1,687,825
+11/7/2016,Monday,Irish Scone,800,November,87.336,1,653,699
+11/8/2016,Tuesday,Spiced Peanuts,950,November,87.191,2,706,828
+11/8/2016,Tuesday,Sticky Bun,900,November,86.883,2,714,782
+11/9/2016,Wednesday,Brownie,800,November,88.269,2,686,706
+11/9/2016,Wednesday,Bread Roll,850,November,87.181,2,697,741
+11/10/2016,Thursday,Walnut Muffin,900,November,87.612,2,702,789
+11/10/2016,Thursday,Samosa,950,November,88.326,2,703,839
+11/11/2016,Friday,Cinnabun,700,November,87.638,2,642,613
+11/11/2016,Friday,Salt Biscuit,900,November,88.257,2,676,794
+11/14/2016,Monday,Orange Muffin,900,November,86.871,2,651,782
+11/14/2016,Monday,Irish Scone,850,November,86.624,2,669,736
+11/15/2016,Tuesday,Spiced Peanuts,850,November,87.15,3,728,741
+11/15/2016,Tuesday,Sticky Bun,950,November,88.563,3,718,841
+11/16/2016,Wednesday,Brownie,750,November,87.864,3,698,659
+11/16/2016,Wednesday,Coconut Muffin,750,November,86.722,3,662,650
+11/17/2016,Thursday,Walnut Muffin,950,November,87.639,3,704,833
+11/17/2016,Thursday,Samosa,900,November,88.434,3,707,796
+11/18/2016,Friday,Cinnabun,750,November,87.734,3,639,658
+11/18/2016,Friday,Salt Biscuit,850,November,87.558,3,665,744
+11/21/2016,Monday,Cinnamon Roll,900,November,86.495,3,687,778
+11/21/2016,Monday,Cherry Scone,800,November,86.477,3,653,692
+11/22/2016,Tuesday,Granola Scone,850,November,86.942,4,719,739
+11/22/2016,Tuesday,Coconut Muffin,850,November,88.259,4,705,750
+11/23/2016,Wednesday,Walnut Muffin,800,November,87.45,4,681,700
+11/23/2016,Wednesday,Samosa,850,November,88.451,4,684,752
+11/24/2016,Thursday,Orange Muffin,850,November,87.035,4,709,740
+11/24/2016,Thursday,Salt Biscuit,850,November,88.579,4,706,753
+11/25/2016,Friday,Cinnabun,700,November,89.344,4,637,625
+11/25/2016,Friday,Irish Scone,750,November,87.412,4,679,656
+11/28/2016,Monday,Cornbread,950,November,87.409,4,692,830
+11/28/2016,Monday,Coconut Muffin,850,November,87.657,4,662,745
+11/29/2016,Tuesday,Granola Scone,950,November,87.203,5,721,828
+11/29/2016,Tuesday,Cherry Tart,900,November,87.908,5,726,791
+11/30/2016,Wednesday,Maple Muffin,850,November,87.607,5,674,745
+11/30/2016,Wednesday,Marble Cake,750,November,88.439,5,699,663
+12/1/2016,Thursday,Plum Cake,650,December,88.089,1,546,573
+12/1/2016,Thursday,Cinnamon Roll,800,December,86.135,1,595,689
+12/2/2016,Friday,Apple Cake,650,December,87.797,1,469,571
+12/2/2016,Friday,Walnut Muffin,600,December,87.47,1,509,525
+12/5/2016,Monday,Samosa,700,December,89.595,1,500,627
+12/5/2016,Monday,Orange Muffin,750,December,89.055,1,534,668
+12/6/2016,Tuesday,Apple Tart,800,December,88.123,1,617,705
+12/6/2016,Tuesday,Vegetable Puff,800,December,88.902,1,595,711
+12/7/2016,Wednesday,Biscuit,700,December,88.597,1,546,620
+12/7/2016,Wednesday,Carrot Muffin,600,December,86.906,1,506,521
+12/8/2016,Thursday,Apple Cake,650,December,88.267,2,512,574
+12/8/2016,Thursday,Apple Pie,650,December,88.204,2,574,573
+12/9/2016,Friday,Walnut Muffin,650,December,87.718,2,471,570
+12/9/2016,Friday,Coconut Muffin,700,December,87.961,2,549,616
+12/12/2016,Monday,Apple Tart,700,December,87.513,2,568,613
+12/12/2016,Monday,Apple Pastry,600,December,88.845,2,534,533
+12/13/2016,Tuesday,Coconut Bread,800,December,86.231,2,577,690
+12/13/2016,Tuesday,Carrot Muffin,650,December,87.382,2,581,568
+12/14/2016,Wednesday,Apple Cake,550,December,88.403,2,492,486
+12/14/2016,Wednesday,Orange Muffin,800,December,88.527,2,566,708
+12/15/2016,Thursday,Walnut Muffin,800,December,87.587,3,581,701
+12/15/2016,Thursday,Coconut Muffin,750,December,87.409,3,575,656
+12/16/2016,Friday,Samosa,650,December,88.896,3,512,578
+12/16/2016,Friday,Irish Scone,600,December,88.729,3,501,532
+12/19/2016,Monday,Biscuit,650,December,88.759,3,536,577
+12/19/2016,Monday,Carrot Muffin,650,December,87.738,3,562,570
+12/20/2016,Tuesday,Apple Cake,700,December,88.18,3,549,617
+12/20/2016,Tuesday,Apple Pie,650,December,88.333,3,527,574
+12/21/2016,Wednesday,Apple Tart,750,December,87.98,3,527,660
+12/21/2016,Wednesday,Lemon Cake,700,December,88.079,3,572,617
+12/22/2016,Thursday,Samosa,600,December,89.729,4,515,538
+12/22/2016,Thursday,Orange Muffin,600,December,87.862,4,531,527
+12/23/2016,Friday,Walnut Muffin,600,December,87.761,4,489,527
+12/23/2016,Friday,Coconut Muffin,700,December,88.016,4,497,616
+12/27/2016,Tuesday,Rusk,750,December,88.976,4,563,667
+12/27/2016,Tuesday,Carrot Muffin,800,December,84.941,4,570,680
+12/28/2016,Wednesday,Samosa,700,December,88.983,4,561,623
+12/28/2016,Wednesday,Walnut Muffin,750,December,88.079,4,582,661
+12/29/2016,Thursday,Spiced Peanuts,750,December,88.305,5,596,662
+12/29/2016,Thursday,Sticky Bun,650,December,89.65,5,570,583
+12/30/2016,Friday,Cinnamon Roll,650,December,87.698,5,528,570
+12/30/2016,Friday,Coconut Muffin,550,December,88.346,5,490,486
+1/3/2017,Tuesday,Orange Muffin,950,January,88.901,1,721,845
+1/3/2017,Tuesday,Coconut Muffin,950,January,88.819,1,706,844
+1/4/2017,Wednesday,Walnut Muffin,850,January,88.199,1,695,750
+1/4/2017,Wednesday,Samosa,850,January,89.376,1,666,760
+1/5/2017,Thursday,Brownie,900,January,88.853,1,701,800
+1/5/2017,Thursday,Boondi Mixture,800,January,91.545,1,701,732
+1/6/2017,Friday,Coconut Bread,700,January,88.894,1,654,622
+1/6/2017,Friday,Carrot Muffin,750,January,88.397,1,679,663
+1/9/2017,Monday,Granola Scone,850,January,88.454,2,669,752
+1/9/2017,Monday,Coconut Muffin,850,January,88.959,2,692,756
+1/10/2017,Tuesday,Coconut Bread,900,January,89.861,2,723,809
+1/10/2017,Tuesday,Carrot Muffin,950,January,88.809,2,727,844
+1/11/2017,Wednesday,Walnut Muffin,900,January,88.97,2,693,801
+1/11/2017,Wednesday,Samosa,800,January,90.787,2,675,726
+1/12/2017,Thursday,Brownie,850,January,89.528,2,708,761
+1/12/2017,Thursday,Coconut Muffin,800,January,89.373,2,709,715
+1/13/2017,Friday,Cinnamon Roll,800,January,89.083,2,630,713
+1/13/2017,Friday,Irish Scone,900,January,88.981,2,662,801
+1/16/2017,Monday,Rusk,750,January,89.057,3,658,668
+1/16/2017,Monday,Orange Muffin,850,January,88.999,3,694,756
+1/17/2017,Tuesday,Walnut Muffin,900,January,88.228,3,709,794
+1/17/2017,Tuesday,Coconut Muffin,800,January,88.928,3,706,711
+1/18/2017,Wednesday,Spiced Peanuts,850,January,88.51,3,686,752
+1/18/2017,Wednesday,Sticky Bun,750,January,88.915,3,677,667
+1/19/2017,Thursday,Biscuit,850,January,90.447,3,706,769
+1/19/2017,Thursday,Carrot Muffin,850,January,88.422,3,703,752
+1/20/2017,Friday,Apple Cake,750,January,89.151,3,691,669
+1/20/2017,Friday,Apple Pie,900,January,88.959,3,695,801
+1/23/2017,Monday,Potato Chip,750,January,88.28,4,685,662
+1/23/2017,Monday,Coconut Muffin,900,January,89.004,4,669,801
+1/24/2017,Tuesday,Irish Bread,950,January,88.565,4,719,841
+1/24/2017,Tuesday,Key Lime Pie,850,January,89.654,4,701,762
+1/25/2017,Wednesday,Orange Muffin,800,January,88.547,4,660,708
+1/25/2017,Wednesday,Irish Scone,800,January,87.176,4,688,697
+1/30/2017,Monday,Coconut Bread,950,January,89.073,5,689,846
+1/30/2017,Monday,Carrot Muffin,850,January,88.907,5,658,756
+1/31/2017,Tuesday,Potato Chip,750,January,88.696,5,705,665
+1/31/2017,Tuesday,Coconut Muffin,900,January,89.123,5,724,802
+2/1/2017,Wednesday,Irish Bread,950,February,90.877,1,695,863
+2/1/2017,Wednesday,Key Lime Pie,800,February,90.361,1,687,723
+2/2/2017,Thursday,Irish Scone,900,February,89.644,1,701,807
+2/2/2017,Thursday,Orange Muffin,950,February,89.805,1,709,853
+2/3/2017,Friday,Boondi Mixture,700,February,89.198,1,654,624
+2/3/2017,Friday,Brownie,700,February,90.041,1,631,630
+2/6/2017,Monday,Coconut Muffin,850,February,90.469,1,684,769
+2/6/2017,Monday,Pita Bread,900,February,89.769,1,680,808
+2/7/2017,Tuesday,Walnut Muffin,800,February,90.905,1,711,727
+2/7/2017,Tuesday,Samosa,900,February,89.729,1,725,808
+2/8/2017,Wednesday,Gingerbread,750,February,88.813,2,665,666
+2/8/2017,Wednesday,Irish Scone,800,February,89.206,2,675,714
+2/9/2017,Thursday,Apple Bread,850,February,89.943,2,709,765
+2/9/2017,Thursday,Irish Bread,900,February,90.949,2,703,819
+2/10/2017,Friday,Cream Muffin,900,February,91.031,2,683,819
+2/10/2017,Friday,Easter Cake,800,February,90.095,2,664,721
+2/13/2017,Monday,Samosa,900,February,90.052,2,669,810
+2/13/2017,Monday,Coconut Muffin,800,February,89.134,2,656,713
+2/14/2017,Tuesday,Irish Bread,850,February,90.064,2,725,766
+2/14/2017,Tuesday,Apple Bread,900,February,91.108,2,711,820
+2/15/2017,Wednesday,Sugar Cookie,900,February,90.506,3,664,815
+2/15/2017,Wednesday,Boondi Mixture,850,February,89.504,3,661,761
+2/16/2017,Thursday,Banana Muffin,800,February,89.835,3,706,719
+2/16/2017,Thursday,Bread Roll,850,February,89.566,3,709,761
+2/17/2017,Friday,Granola Scone,900,February,90.213,3,689,812
+2/17/2017,Friday,Irish Scone,750,February,89.655,3,667,672
+2/20/2017,Monday,Cornbread,850,February,89.691,3,650,762
+2/20/2017,Monday,Bran Muffin,800,February,90.348,3,659,723
+2/21/2017,Tuesday,Walnut Muffin,850,February,90.01,3,726,765
+2/21/2017,Tuesday,Apple Bread,800,February,90.579,3,703,725
+2/21/2017,Tuesday,Irish Bread,950,February,90.091,3,719,856
+2/22/2017,Wednesday,Apple Bar,950,February,89.399,4,693,849
+2/22/2017,Wednesday,Bread Roll,900,February,89.327,4,678,804
+2/23/2017,Thursday,Cinnamon Cake,900,February,89.879,4,701,809
+2/23/2017,Thursday,Key Lime Pie,900,February,90.537,4,706,815
+2/24/2017,Friday,Irish Scone,800,February,89.678,4,676,717
+2/24/2017,Friday,Banana Muffin,850,February,86.41,4,687,734
+2/27/2017,Monday,Crumpet,800,February,89.222,4,661,714
+2/27/2017,Monday,Coconut Muffin,800,February,89.326,4,680,715
+2/28/2017,Tuesday,Cornbread,950,February,89.777,4,729,853
+2/28/2017,Tuesday,Bran Muffin,750,February,90.936,4,711,682
+3/1/2017,Wednesday,Cinnamon Roll,900,March,90.215,1,681,812
+3/1/2017,Wednesday,Irish Scone,850,March,90.756,1,662,771
+3/2/2017,Thursday,Banana Muffin,850,March,90.19,1,705,767
+3/2/2017,Thursday,Apple Tart,900,March,90.348,1,702,813
+3/3/2017,Friday,Coconut Bread,900,March,89.991,1,667,810
+3/3/2017,Friday,Carrot Muffin,850,March,91.466,1,658,777
+3/6/2017,Monday,Crumpet,750,March,91.25,1,650,684
+3/6/2017,Monday,Coconut Muffin,800,March,90.936,1,655,727
+3/7/2017,Tuesday,Cornbread,750,March,90.887,1,718,682
+3/7/2017,Tuesday,Bran Muffin,900,March,90.977,1,703,819
+3/8/2017,Wednesday,Granola Scone,800,March,90.838,2,681,727
+3/8/2017,Wednesday,Irish Scone,800,March,90.433,2,664,723
+3/9/2017,Thursday,Banana Muffin,850,March,90.889,2,704,773
+3/9/2017,Thursday,Boondi Mixture,800,March,90.457,2,709,724
+3/10/2017,Friday,Popover,900,March,89.927,2,696,809
+3/10/2017,Friday,Croissant,800,March,90.871,2,648,727
+3/13/2017,Monday,Spiced Peanuts,900,March,92.816,2,653,835
+3/13/2017,Monday,Sticky Bun,900,March,90.79,2,685,817
+3/14/2017,Tuesday,Badam Cookie,800,March,90.304,2,700,722
+3/14/2017,Tuesday,Irish Scone,750,March,91.247,2,716,684
+3/15/2017,Wednesday,Walnut Muffin,900,March,90.351,3,671,813
+3/15/2017,Wednesday,Popover,750,March,90.822,3,695,681
+3/16/2017,Thursday,Cornbread,800,March,90.175,3,702,721
+3/16/2017,Thursday,Bran Muffin,850,March,90.748,3,702,771
+3/17/2017,Friday,Apple Pie,750,March,89.802,3,685,674
+3/17/2017,Friday,Boondi Mixture,850,March,90.39,3,650,768
+3/20/2017,Monday,Banana Muffin,900,March,90.11,3,692,811
+3/20/2017,Monday,Coconut Muffin,750,March,90.71,3,685,680
+3/21/2017,Tuesday,Cream Muffin,800,March,91.631,3,720,733
+3/21/2017,Tuesday,Irish Scone,750,March,90.627,3,704,680
+3/22/2017,Wednesday,Bran Muffin,800,March,90.87,4,680,727
+3/22/2017,Wednesday,Carrot Muffin,700,March,89.632,4,672,627
+3/23/2017,Thursday,Walnut Muffin,900,March,90.309,4,703,813
+3/23/2017,Thursday,Samosa,850,March,91.696,4,706,779
+3/24/2017,Friday,Bread Roll,800,March,92.086,4,637,737
+3/24/2017,Friday,Cream Bun,850,March,90.229,4,696,767
+3/27/2017,Monday,Banana Muffin,800,March,89.254,4,658,714
+3/27/2017,Monday,Coconut Muffin,700,March,88.93,4,657,623
+3/28/2017,Tuesday,Coconut Bread,950,March,90.132,4,723,856
+3/28/2017,Tuesday,Carrot Muffin,950,March,90.156,4,729,856
+3/29/2017,Wednesday,Egg Puff,950,March,90.472,5,688,859
+3/29/2017,Wednesday,Irish Scone,750,March,90.009,5,677,675
+3/30/2017,Thursday,Bread Roll,850,March,90.391,5,707,768
+3/30/2017,Thursday,Cream Bun,850,March,90.049,5,704,765
+3/31/2017,Friday,Walnut Muffin,750,March,88.596,5,636,664
+3/31/2017,Friday,Samosa,750,March,91.321,5,662,685
+4/3/2017,Monday,Cornbread,850,April,90.458,1,650,769
+4/3/2017,Monday,Bran Muffin,850,April,91.676,1,672,779
+4/4/2017,Tuesday,Oatmeal Scone,900,April,91.466,1,704,823
+4/4/2017,Tuesday,Date Bread,750,April,88.643,1,706,665
+4/5/2017,Wednesday,Banana Muffin,900,April,91.836,1,697,827
+4/5/2017,Wednesday,Coconut Muffin,750,April,90.97,1,696,682
+4/6/2017,Thursday,Spiced Peanuts,900,April,91.007,1,709,819
+4/6/2017,Thursday,Sticky Bun,900,April,89.973,1,708,810
+4/7/2017,Friday,Apple Tart,800,April,90.832,1,631,727
+4/7/2017,Friday,Carrot Muffin,750,April,92.032,1,688,690
+4/10/2017,Monday,Orange Muffin,850,April,91.13,2,672,775
+4/10/2017,Monday,Irish Scone,750,April,91.594,2,696,687
+4/11/2017,Tuesday,Walnut Muffin,850,April,91.193,2,711,775
+4/11/2017,Tuesday,Samosa,800,April,91.727,2,726,734
+4/12/2017,Wednesday,Lemon Scone,950,April,93.345,2,686,887
+4/12/2017,Wednesday,Coconut Muffin,800,April,90.99,2,678,728
+4/13/2017,Thursday,Cornbread,950,April,91.672,2,704,871
+4/13/2017,Thursday,Masala Bun,900,April,91.185,2,705,821
+4/14/2017,Friday,Herb Cracker,750,April,91.727,2,685,688
+4/14/2017,Friday,Nutty Scone,900,April,93.156,2,692,838
+4/17/2017,Monday,Bread Pakoda,800,April,91.35,3,683,731
+4/17/2017,Monday,Oatmeal Scone,750,April,90.836,3,676,681
+4/18/2017,Tuesday,Banana Muffin,950,April,90.649,3,708,861
+4/18/2017,Tuesday,Irish Scone,900,April,90.905,3,702,818
+4/19/2017,Wednesday,French Bread,850,April,90.574,3,699,770
+4/19/2017,Wednesday,Coconut Muffin,900,April,90.602,3,677,815
+4/20/2017,Thursday,Lemon Scone,950,April,91.589,3,700,870
+4/20/2017,Thursday,Nutty Scone,900,April,92.684,3,700,834
+4/21/2017,Friday,Coconut Bread,750,April,90.952,3,695,682
+4/21/2017,Friday,Carrot Muffin,800,April,91.228,3,631,730
+4/24/2017,Monday,Bread Pakoda,800,April,91.35,4,694,731
+4/24/2017,Monday,Oatmeal Scone,700,April,91.326,4,653,639
+4/25/2017,Tuesday,Kolache,800,April,90.773,4,721,726
+4/25/2017,Tuesday,Coconut Muffin,800,April,91.326,4,707,731
+4/26/2017,Wednesday,Apple Pie,850,April,92.134,4,665,783
+4/26/2017,Wednesday,Boondi Mixture,750,April,91.399,4,673,685
+4/27/2017,Thursday,Spiced Peanuts,800,April,91.097,4,706,729
+4/27/2017,Thursday,Sticky Bun,800,April,91.207,4,700,730
+4/28/2017,Friday,Irish Scone,700,April,91.532,4,635,641
+4/28/2017,Friday,Bagel,900,April,92.481,4,664,832
+5/3/2017,Wednesday,Banana Muffin,850,May,91.238,1,675,776
+5/3/2017,Wednesday,Coconut Muffin,900,May,91.472,1,692,823
+5/4/2017,Thursday,Lemon Scone,900,May,92.268,1,700,830
+5/4/2017,Thursday,Nutty Scone,800,May,93.765,1,702,750
+5/5/2017,Friday,Cornbread,900,May,91.533,1,671,824
+5/5/2017,Friday,Bran Muffin,850,May,93.004,1,683,791
+5/8/2017,Monday,Spiced Peanuts,800,May,90.91,2,672,727
+5/8/2017,Monday,Sticky Bun,850,May,91.873,2,699,781
+5/9/2017,Tuesday,Energy Bar,900,May,91.888,2,719,827
+5/9/2017,Tuesday,Irish Scone,800,May,91.598,2,707,733
+5/10/2017,Wednesday,Lemon Scone,750,May,92.803,2,679,696
+5/10/2017,Wednesday,Caramel Tart,800,May,91.666,2,695,733
+5/11/2017,Thursday,Koduballe,950,May,91.615,2,704,870
+5/11/2017,Thursday,Nutty Scone,800,May,92.413,2,703,739
+5/12/2017,Friday,Walnut Muffin,750,May,91.933,2,631,689
+5/12/2017,Friday,Samosa,700,May,92.908,2,640,650
+5/15/2017,Monday,Irish Scone,750,May,91.487,3,678,686
+5/15/2017,Monday,Bagel,750,May,92.495,3,652,694
+5/16/2017,Tuesday,Irish Bread,850,May,92.7,3,703,788
+5/16/2017,Tuesday,Oatmeal Scone,900,May,90.793,3,729,817
+5/17/2017,Wednesday,Lemon Scone,900,May,93.063,3,664,838
+5/17/2017,Wednesday,Coconut Muffin,900,May,91.685,3,662,825
+5/18/2017,Thursday,Banana Muffin,900,May,92.197,3,702,830
+5/18/2017,Thursday,Caramel Tart,850,May,92.668,3,704,788
+5/19/2017,Friday,Energy Bar,800,May,92.095,3,651,737
+5/19/2017,Friday,Nutty Scone,900,May,92.114,3,696,829
+5/22/2017,Monday,Spiced Peanuts,850,May,92.042,4,675,782
+5/22/2017,Monday,Sticky Bun,750,May,92.071,4,687,691
+5/23/2017,Tuesday,Pita Bread,800,May,91.464,4,705,732
+5/23/2017,Tuesday,Casserole,900,May,91.862,4,709,827
+5/24/2017,Wednesday,Apple Pie,750,May,91.798,4,666,688
+5/24/2017,Wednesday,Boondi Mixture,750,May,92.148,4,670,691
+5/25/2017,Thursday,Lemon Scone,750,May,93.102,4,709,698
+5/25/2017,Thursday,Energy Bar,900,May,91.255,4,702,821
+5/25/2017,Thursday,Nutty Scone,850,May,92.577,4,703,787
+5/26/2017,Friday,Baked Donut,800,May,93.002,4,640,744
+5/26/2017,Friday,Irish Scone,750,May,92.296,4,646,692
+5/29/2017,Monday,Spiced Peanuts,750,May,92.023,5,659,690
+5/29/2017,Monday,Sticky Bun,900,May,89.997,5,668,810
+5/30/2017,Tuesday,Croissant,800,May,91.526,5,715,732
+5/30/2017,Tuesday,Pecan Muffin,800,May,92.339,5,728,739
+5/31/2017,Wednesday,Banana Muffin,900,May,92.203,5,681,830
+5/31/2017,Wednesday,Coconut Muffin,800,May,92.04,5,688,736
+6/1/2017,Thursday,Granola Bar,800,June,92.091,1,700,737
+6/1/2017,Thursday,Nutty Scone,800,June,93.74,1,704,750
+6/2/2017,Friday,Lemon Scone,850,June,94.019,1,693,799
+6/2/2017,Friday,Energy Bar,850,June,92.926,1,673,790
+6/2/2017,Friday,Caramel Tart,700,June,92.65,1,635,649
+6/5/2017,Monday,Irish Bread,800,June,94.115,1,698,753
+6/5/2017,Monday,Oatmeal Scone,750,June,92.124,1,655,691
+6/6/2017,Tuesday,Lemon Scone,850,June,93.586,1,715,795
+6/6/2017,Tuesday,Energy Bar,850,June,92.919,1,714,790
+6/6/2017,Tuesday,Nutty Scone,900,June,94.59,1,703,851
+6/8/2017,Thursday,Croissant,950,June,92.854,2,706,882
+6/8/2017,Thursday,Pecan Muffin,900,June,93.009,2,701,837
+6/9/2017,Friday,Bran Muffin,850,June,93.823,2,633,797
+6/9/2017,Friday,Carrot Muffin,750,June,92.855,2,655,696
+6/12/2017,Monday,Walnut Muffin,700,June,93.057,2,650,651
+6/12/2017,Monday,Key Lime Pie,900,June,95.259,2,658,857
+6/13/2017,Tuesday,Coffee Cake,900,June,92.964,2,714,837
+6/13/2017,Tuesday,Nutty Scone,800,June,93.645,2,715,749
+6/14/2017,Wednesday,Spiced Peanuts,800,June,92.533,2,669,740
+6/14/2017,Wednesday,Sticky Bun,700,June,92.174,2,667,645

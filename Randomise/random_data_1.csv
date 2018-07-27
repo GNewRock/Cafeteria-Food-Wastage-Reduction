@@ -1,0 +1,317 @@
+Date,Day,Item,Ordered,Month,Percentage Consumed,Date_Diff
+2016-11-02,Wednesday,Walnut Muffin,2900,November,86.23,0.0
+2016-11-02,Wednesday,Samosa,1800,November,87.0,0.0
+2016-11-03,Thursday,Brownie,1800,November,88.371,0.025
+2016-11-03,Thursday,Salt Biscuit,1800,November,87.025,0.025
+2016-11-06,Sunday,Orange Muffin,1800,November,87.1,0.1
+2016-11-06,Sunday,Irish Scone,1800,November,86.167,0.1
+2016-11-07,Monday,Spiced Peanut,1800,November,87.125,0.125
+2016-11-07,Monday,Sticky Bun,1800,November,87.125,0.125
+2016-11-08,Tuesday,Brownie,1900,November,87.15,0.15
+2016-11-08,Tuesday,Bread Roll,1900,November,87.15,0.15
+2016-11-09,Wednesday,Walnut Muffin,2800,November,87.414,0.175
+2016-11-09,Wednesday,Samosa,1700,November,87.175,0.175
+2016-11-10,Thursday,Cinnabun,1900,November,87.2,0.2
+2016-11-10,Thursday,Salt Biscuit,1900,November,87.2,0.2
+2016-11-13,Sunday,Orange Muffin,2300,November,87.275,0.275
+2016-11-13,Sunday,Irish Scone,1900,November,86.313,0.275
+2016-11-14,Monday,Spiced Peanut,1600,November,87.3,0.3
+2016-11-14,Monday,Sticky Bun,2500,November,88.763,0.3
+2016-11-15,Tuesday,Brownie,1800,November,87.325,0.325
+2016-11-15,Tuesday,Coconut Muffin,1800,November,87.325,0.325
+2016-11-16,Wednesday,Walnut Muffin,2600,November,87.35,0.35
+2016-11-16,Wednesday,Samosa,1700,November,87.35,0.35
+2016-11-17,Thursday,Cinnabun,1800,November,87.764,0.375
+2016-11-17,Thursday,Salt Biscuit,1800,November,87.375,0.375
+2016-11-20,Sunday,Cinnamon Roll,1900,November,87.132,0.45
+2016-11-20,Sunday,Cherry Scone,1900,November,86.35,0.45
+2016-11-21,Monday,Granola Scone,1900,November,87.475,0.475
+2016-11-21,Monday,Coconut Muffin,1900,November,88.454,0.475
+2016-11-22,Tuesday,Walnut Muffin,2700,November,87.5,0.5
+2016-11-22,Tuesday,Samosa,1800,November,87.5,0.5
+2016-11-23,Wednesday,Orange Muffin,2300,November,87.525,0.525
+2016-11-23,Wednesday,Salt Biscuit,1900,November,87.525,0.525
+2016-11-24,Thursday,Cinnabun,2300,November,89.282,0.55
+2016-11-24,Thursday,Irish Scone,1900,November,87.55,0.55
+2016-11-27,Sunday,Cornbread,1900,November,87.625,0.625
+2016-11-27,Sunday,Coconut Muffin,1900,November,87.625,0.625
+2016-11-28,Monday,Granola Scone,1800,November,87.65,0.65
+2016-11-28,Monday,Cherry Tart,1800,November,87.13,0.65
+2016-11-29,Tuesday,Maple Muffin,1900,November,87.675,0.675
+2016-11-29,Tuesday,Marble Cake,1900,November,87.675,0.675
+2016-11-30,Wednesday,Plum Cake,1800,November,87.7,0.7
+2016-11-30,Wednesday,Cinnamon Roll,1800,November,84.968,0.7
+2016-12-01,Thursday,Apple Cake,1900,December,87.725,0.725
+2016-12-01,Thursday,Walnut Muffin,2400,December,87.711,0.725
+2016-12-04,Sunday,Samosa,1700,December,87.8,0.8
+2016-12-04,Sunday,Orange Muffin,1700,December,87.8,0.8
+2016-12-05,Monday,Apple Tart,1600,December,87.825,0.825
+2016-12-05,Monday,Vegetable Puff,1600,December,87.825,0.825
+2016-12-06,Tuesday,Biscuit,1600,December,87.85,0.85
+2016-12-06,Tuesday,Carrot Muffin,1600,December,87.026,0.85
+2016-12-07,Wednesday,Apple Cake,1800,December,87.875,0.875
+2016-12-07,Wednesday,Apple Pie,1900,December,87.875,0.875
+2016-12-08,Thursday,Walnut Muffin,1600,December,87.9,0.9
+2016-12-08,Thursday,Coconut Muffin,1600,December,87.9,0.9
+2016-12-11,Sunday,Apple Tart,1700,December,87.606,0.975
+2016-12-11,Sunday,Apple Pastry,1700,December,87.975,0.975
+2016-12-12,Monday,Coconut Bread,1800,December,86.521,1.0
+2016-12-12,Monday,Carrot Muffin,1800,December,88.0,1.0
+2016-12-13,Tuesday,Apple Cake,1800,December,88.025,1.025
+2016-12-13,Tuesday,Orange Muffin,2400,December,88.025,1.025
+2016-12-14,Wednesday,Walnut Muffin,2400,December,87.921,1.05
+2016-12-14,Wednesday,Coconut Muffin,1800,December,88.05,1.05
+2016-12-15,Thursday,Samosa,1800,December,88.075,1.075
+2016-12-15,Thursday,Irish Scone,1800,December,88.574,1.075
+2016-12-18,Sunday,Biscuit,1700,December,88.15,1.15
+2016-12-18,Sunday,Carrot Muffin,1700,December,88.15,1.15
+2016-12-19,Monday,Apple Cake,1700,December,88.175,1.175
+2016-12-19,Monday,Apple Pie,2000,December,88.279,1.175
+2016-12-20,Tuesday,Apple Tart,1500,December,88.2,1.2
+2016-12-20,Tuesday,Lemon Cake,3000,December,88.2,1.2
+2016-12-21,Wednesday,Samosa,1500,December,89.182,1.225
+2016-12-21,Wednesday,Orange Muffin,2000,December,88.225,1.225
+2016-12-22,Thursday,Walnut Muffin,1800,December,88.25,1.25
+2016-12-22,Thursday,Coconut Muffin,1500,December,88.25,1.25
+2016-12-26,Monday,Rusk,1500,December,88.35,1.35
+2016-12-26,Monday,Carrot Muffin,1500,December,85.435,1.35
+2016-12-27,Tuesday,Samosa,1500,December,88.375,1.375
+2016-12-27,Tuesday,Walnut Muffin,1500,December,88.375,1.375
+2016-12-28,Wednesday,Spiced Peanut,1500,December,88.4,1.4
+2016-12-28,Wednesday,Sticky Bun,1500,December,90.152,1.4
+2016-12-29,Thursday,Cinnamon Roll,1300,December,88.425,1.425
+2016-12-29,Thursday,Coconut Muffin,1300,December,88.425,1.425
+2017-01-02,Monday,Orange Muffin,1876,January,88.4,1.525
+2017-01-02,Monday,Coconut Muffin,1876,January,88.525,1.525
+2017-01-03,Tuesday,Walnut Muffin,1882,January,88.55,1.55
+2017-01-03,Tuesday,Samosa,1882,January,88.55,1.55
+2017-01-04,Wednesday,Brownie,1600,January,88.575,1.575
+2017-01-04,Wednesday,Boondi Mixture,1600,January,90.462,1.575
+2017-01-05,Thursday,Coconut Bread,1600,January,88.6,1.6
+2017-01-05,Thursday,Carrot Muffin,1600,January,88.6,1.6
+2017-01-08,Sunday,Granola Scone,1700,January,88.675,1.675
+2017-01-08,Sunday,Coconut Muffin,1700,January,88.675,1.675
+2017-01-09,Monday,Coconut Bread,1700,January,90.443,1.7
+2017-01-09,Monday,Carrot Muffin,1700,January,88.7,1.7
+2017-01-10,Tuesday,Walnut Muffin,1930,January,88.725,1.725
+2017-01-10,Tuesday,Samosa,1930,January,89.023,1.725
+2017-01-11,Wednesday,Brownie,1600,January,88.75,1.75
+2017-01-11,Wednesday,Coconut Muffin,1600,January,88.75,1.75
+2017-01-12,Thursday,Cinnamon Roll,1600,January,89.027,1.775
+2017-01-12,Thursday,Irish Scone,1600,January,88.775,1.775
+2017-01-15,Sunday,Rusk,1841,January,88.85,1.85
+2017-01-15,Sunday,Orange Muffin,1841,January,88.85,1.85
+2017-01-16,Monday,Walnut Muffin,1982,January,88.875,1.875
+2017-01-16,Monday,Coconut Muffin,1700,January,88.875,1.875
+2017-01-17,Tuesday,Spiced Peanut,1700,January,88.9,1.9
+2017-01-17,Tuesday,Sticky Bun,2000,January,88.9,1.9
+2017-01-18,Wednesday,Biscuit,1700,January,88.925,1.925
+2017-01-18,Wednesday,Carrot Muffin,1700,January,88.925,1.925
+2017-01-19,Thursday,Apple Cake,1600,January,88.95,1.95
+2017-01-19,Thursday,Apple Pie,3600,January,88.95,1.95
+2017-01-22,Sunday,Potato Chip,1800,January,88.0,2.025
+2017-01-22,Sunday,Coconut Muffin,1800,January,89.025,2.025
+2017-01-23,Monday,Irish Bread,1800,January,88.055,2.05
+2017-01-23,Monday,Key Lime Pie,1800,January,89.05,2.05
+2017-01-24,Tuesday,Orange Muffin,1812,January,89.075,2.075
+2017-01-24,Tuesday,Irish Scone,1812,January,87.522,2.075
+2017-01-25,Wednesday,Peach Muffin,500,January,89.1,2.1
+2017-01-25,Wednesday,Biscotti,2200,January,89.1,2.1
+2017-01-25,Wednesday,Brownie,2200,January,89.1,2.1
+2017-01-25,Wednesday,Peach Muffin,500,January,88.099,2.1
+2017-01-29,Sunday,Coconut Bread,1700,January,89.2,2.2
+2017-01-29,Sunday,Carrot Muffin,1700,January,89.2,2.2
+2017-01-30,Monday,Potato Chip,1800,January,88.565,2.225
+2017-01-30,Monday,Coconut Muffin,1800,January,89.225,2.225
+2017-01-31,Tuesday,Irish Bread,2000,January,90.16,2.25
+2017-01-31,Tuesday,Key Lime Pie,2000,January,89.25,2.25
+2017-02-01,Wednesday,Irish Scone,1800,February,89.275,2.275
+2017-02-01,Wednesday,Orange Muffin,1800,February,89.275,2.275
+2017-02-02,Thursday,Boondi Mixture,1700,February,89.3,2.3
+2017-02-02,Thursday,Brownie,1700,February,89.3,2.3
+2017-02-05,Sunday,Coconut Muffin,1650,February,89.375,2.375
+2017-02-05,Sunday,Pita Bread,1650,February,89.375,2.375
+2017-02-06,Monday,Walnut Muffin,1800,February,90.26,2.4
+2017-02-06,Monday,Samosa,1800,February,89.4,2.4
+2017-02-07,Tuesday,Gingerbread,1600,February,88.445,2.425
+2017-02-07,Tuesday,Irish Scone,1600,February,89.425,2.425
+2017-02-08,Wednesday,Apple Bread,1800,February,89.45,2.45
+2017-02-08,Wednesday,Irish Bread,1600,February,89.45,2.45
+2017-02-09,Thursday,Cream Muffin,1600,February,89.475,2.475
+2017-02-09,Thursday,Easter Cake,1600,February,89.243,2.475
+2017-02-12,Sunday,Samosa,1650,February,89.55,2.55
+2017-02-12,Sunday,Coconut Muffin,1650,February,89.55,2.55
+2017-02-13,Monday,Irish Bread,1600,February,89.575,2.575
+2017-02-13,Monday,Apple Bread,2000,February,89.652,2.575
+2017-02-14,Tuesday,Sugar Cookie,1600,February,89.6,2.6
+2017-02-14,Tuesday,Boondi Mixture,1600,February,89.6,2.6
+2017-02-15,Wednesday,Banana Muffin,1600,February,89.625,2.625
+2017-02-15,Wednesday,Bread Roll,1600,February,89.625,2.625
+2017-02-16,Thursday,Granola Scone,1600,February,90.087,2.65
+2017-02-16,Thursday,Irish Scone,1600,February,89.65,2.65
+2017-02-19,Sunday,Cornbread,1600,February,89.725,2.725
+2017-02-19,Sunday,Bran Muffin,1600,February,89.725,2.725
+2017-02-20,Monday,Walnut Muffin,1600,February,89.75,2.75
+2017-02-20,Monday,Apple Bread,2000,February,89.75,2.75
+2017-02-20,Monday,Irish Bread,500,February,89.75,2.75
+2017-02-21,Tuesday,Apple Bar,1600,February,89.775,2.775
+2017-02-21,Tuesday,Bread Roll,1600,February,89.775,2.775
+2017-02-22,Wednesday,Cinnamon Cake,1600,February,89.8,2.8
+2017-02-22,Wednesday,Key Lime Pie,1700,February,89.8,2.8
+2017-02-23,Thursday,Irish Scone,1500,February,89.885,2.825
+2017-02-23,Thursday,Banana Muffin,1500,February,87.06,2.825
+2017-02-26,Sunday,Crumpet,1600,February,89.9,2.9
+2017-02-26,Sunday,Coconut Muffin,1600,February,89.9,2.9
+2017-02-27,Monday,Cornbread,1700,February,89.925,2.925
+2017-02-27,Monday,Bran Muffin,1700,February,89.925,2.925
+2017-02-28,Tuesday,Cinnamon Roll,1600,February,89.759,2.95
+2017-02-28,Tuesday,Irish Scone,1600,February,89.95,2.95
+2017-03-01,Wednesday,Banana Muffin,1500,March,89.975,2.975
+2017-03-01,Wednesday,Apple Tart,1500,March,89.975,2.975
+2017-03-02,Thursday,Coconut Bread,1500,March,90.0,3.0
+2017-03-02,Thursday,Carrot Muffin,1500,March,91.562,3.0
+2017-03-05,Sunday,Crumpet,1600,March,90.075,3.075
+2017-03-05,Sunday,Coconut Muffin,1600,March,90.075,3.075
+2017-03-06,Monday,Cornbread,1700,March,90.605,3.1
+2017-03-06,Monday,Bran Muffin,1700,March,90.1,3.1
+2017-03-07,Tuesday,Granola Scone,1600,March,90.125,3.125
+2017-03-07,Tuesday,Irish Scone,1600,March,90.125,3.125
+2017-03-08,Wednesday,Banana Muffin,1500,March,90.683,3.15
+2017-03-08,Wednesday,Boondi Mixture,1500,March,90.15,3.15
+2017-03-09,Thursday,Popover,1500,March,90.175,3.175
+2017-03-09,Thursday,Croissant,1500,March,90.175,3.175
+2017-03-12,Sunday,Spiced Peanut,1600,March,92.869,3.25
+2017-03-12,Sunday,Sticky Bun,1600,March,90.25,3.25
+2017-03-13,Monday,Badam Cookie,1480,March,90.275,3.275
+2017-03-13,Monday,Irish Scone,1480,March,90.715,3.275
+2017-03-14,Tuesday,Walnut Muffin,1700,March,90.3,3.3
+2017-03-14,Tuesday,Popover,1700,March,90.3,3.3
+2017-03-15,Wednesday,Cornbread,1600,March,90.325,3.325
+2017-03-15,Wednesday,Bran Muffin,1600,March,90.325,3.325
+2017-03-16,Thursday,Apple Pie,1800,March,89.919,3.35
+2017-03-16,Thursday,Boondi Mixture,1800,March,90.35,3.35
+2017-03-19,Sunday,Banana Muffin,1600,March,90.425,3.425
+2017-03-19,Sunday,Coconut Muffin,1600,March,90.425,3.425
+2017-03-20,Monday,Cream Muffin,1600,March,90.45,3.45
+2017-03-20,Monday,Irish Scone,1600,March,90.293,3.45
+2017-03-21,Tuesday,Bran Muffin,1600,March,90.475,3.475
+2017-03-21,Tuesday,Carrot Muffin,1600,March,89.434,3.475
+2017-03-22,Wednesday,Walnut Muffin,1600,March,90.5,3.5
+2017-03-22,Wednesday,Samosa,1600,March,90.5,3.5
+2017-03-23,Thursday,Bread Roll,1500,March,92.196,3.525
+2017-03-23,Thursday,Cream Bun,1600,March,90.525,3.525
+2017-03-26,Sunday,Banana Muffin,1600,March,89.497,3.6
+2017-03-26,Sunday,Coconut Muffin,1600,March,89.326,3.6
+2017-03-27,Monday,Coconut Bread,1400,March,90.625,3.625
+2017-03-27,Monday,Carrot Muffin,1400,March,90.625,3.625
+2017-03-28,Tuesday,Egg Puff,1600,March,90.65,3.65
+2017-03-28,Tuesday,Irish Scone,1600,March,90.65,3.65
+2017-03-29,Wednesday,Bread Roll,1400,March,90.675,3.675
+2017-03-29,Wednesday,Cream Bun,1400,March,90.675,3.675
+2017-03-30,Thursday,Walnut Muffin,1500,March,88.757,3.7
+2017-03-30,Thursday,Samosa,1500,March,90.7,3.7
+2017-04-02,Sunday,Cornbread,1500,April,90.775,3.775
+2017-04-02,Sunday,Bran Muffin,1500,April,90.775,3.775
+2017-04-03,Monday,Oatmeal Scone,1600,April,90.8,3.8
+2017-04-03,Monday,Date Bread,1600,April,88.855,3.8
+2017-04-04,Tuesday,Banana Muffin,1600,April,90.825,3.825
+2017-04-04,Tuesday,Coconut Muffin,1600,April,90.825,3.825
+2017-04-05,Wednesday,Spiced Peanut,1600,April,90.85,3.85
+2017-04-05,Wednesday,Sticky Bun,1600,April,90.399,3.85
+2017-04-06,Thursday,Apple Tart,1500,April,90.875,3.875
+2017-04-06,Thursday,Carrot Muffin,1500,April,92.363,3.875
+2017-04-09,Sunday,Orange Muffin,1500,April,90.95,3.95
+2017-04-09,Sunday,Irish Scone,1500,April,90.897,3.95
+2017-04-10,Monday,Walnut Muffin,1600,April,90.975,3.975
+2017-04-10,Monday,Samosa,1600,April,90.785,3.975
+2017-04-11,Tuesday,Lemon Scone,1500,April,92.399,4.0
+2017-04-11,Tuesday,Coconut Muffin,1500,April,91.0,4.0
+2017-04-12,Wednesday,Cornbread,1300,April,91.025,4.025
+2017-04-12,Wednesday,Masala Bun,1300,April,91.177,4.025
+2017-04-13,Thursday,Herb Cracker,1600,April,91.05,4.05
+2017-04-13,Thursday,Nutty Scone,1300,April,91.981,4.05
+2017-04-16,Sunday,Bread Pakoda,1400,April,91.125,4.125
+2017-04-16,Sunday,Oatmeal Scone,1700,April,91.125,4.125
+2017-04-17,Monday,Banana Muffin,1600,April,91.15,4.15
+2017-04-17,Monday,Irish Scone,1600,April,91.15,4.15
+2017-04-18,Tuesday,French Bread,1500,April,90.74,4.175
+2017-04-18,Tuesday,Coconut Muffin,1500,April,91.175,4.175
+2017-04-19,Wednesday,Lemon Scone,1600,April,91.2,4.2
+2017-04-19,Wednesday,Nutty Scone,1600,April,91.2,4.2
+2017-04-20,Thursday,Coconut Bread,1200,April,91.225,4.225
+2017-04-20,Thursday,Carrot Muffin,1200,April,91.225,4.225
+2017-04-23,Sunday,Bread Pakoda,1400,April,91.3,4.3
+2017-04-23,Sunday,Oatmeal Scone,1800,April,91.3,4.3
+2017-04-24,Monday,Kolache,1600,April,91.325,4.325
+2017-04-24,Monday,Coconut Muffin,1600,April,91.325,4.325
+2017-04-25,Tuesday,Apple Pie,1600,April,92.168,4.35
+2017-04-25,Tuesday,Boondi Mixture,1600,April,91.35,4.35
+2017-04-26,Wednesday,Spiced Peanut,1432,April,91.375,4.375
+2017-04-26,Wednesday,Sticky Bun,1432,April,91.375,4.375
+2017-04-27,Thursday,Irish Scone,1500,April,91.2,4.4
+2017-04-27,Thursday,Bagel,1500,April,91.4,4.4
+2017-04-30,Sunday,Gingerbread,1350,April,90.341,4.475
+2017-04-30,Sunday,Date Bread,1350,April,91.475,4.475
+2017-05-02,Tuesday,Banana Muffin,1500,May,91.525,4.525
+2017-05-02,Tuesday,Coconut Muffin,1500,May,91.525,4.525
+2017-05-03,Wednesday,Lemon Scone,1600,May,91.322,4.55
+2017-05-03,Wednesday,Nutty Scone,1600,May,92.44,4.55
+2017-05-04,Thursday,Cornbread,1400,May,91.575,4.575
+2017-05-04,Thursday,Bran Muffin,1400,May,91.575,4.575
+2017-05-07,Sunday,Spiced Peanut,1300,May,91.65,4.65
+2017-05-07,Sunday,Sticky Bun,1500,May,91.65,4.65
+2017-05-08,Monday,Energy Bar,1600,May,91.675,4.675
+2017-05-08,Monday,Irish Scone,1600,May,92.118,4.675
+2017-05-09,Tuesday,Lemon Scone,1500,May,91.7,4.7
+2017-05-09,Tuesday,Caramel Tart,1500,May,91.7,4.7
+2017-05-10,Wednesday,Koduballe,1600,May,91.725,4.725
+2017-05-10,Wednesday,Nutty Scone,1600,May,91.725,4.725
+2017-05-11,Thursday,Walnut Muffin,1600,May,91.75,4.75
+2017-05-11,Thursday,Samosa,1400,May,91.75,4.75
+2017-05-14,Sunday,Irish Scone,1550,May,91.825,4.825
+2017-05-14,Sunday,Bagel,1550,May,91.825,4.825
+2017-05-15,Monday,Irish Bread,1500,May,91.85,4.85
+2017-05-15,Monday,Oatmeal Scone,1500,May,90.438,4.85
+2017-05-16,Tuesday,Lemon Scone,1550,May,91.875,4.875
+2017-05-16,Tuesday,Coconut Muffin,1550,May,91.875,4.875
+2017-05-17,Wednesday,Banana Muffin,1550,May,91.9,4.9
+2017-05-17,Wednesday,Caramel Tart,1550,May,92.837,4.9
+2017-05-18,Thursday,Energy Bar,1600,May,91.925,4.925
+2017-05-18,Thursday,Nutty Scone,1600,May,91.925,4.925
+2017-05-21,Sunday,Spiced Peanut,1200,May,92.0,5.0
+2017-05-21,Sunday,Sticky Bun,1500,May,92.038,5.0
+2017-05-22,Monday,Pita Bread,1600,May,92.025,5.025
+2017-05-22,Monday,Casserole,1600,May,92.025,5.025
+2017-05-23,Tuesday,Apple Pie,1800,May,92.05,5.05
+2017-05-23,Tuesday,Boondi Mixture,1800,May,92.05,5.05
+2017-05-24,Wednesday,Lemon Scone,1600,May,92.094,5.075
+2017-05-24,Wednesday,Energy Bar,1600,May,91.606,5.075
+2017-05-24,Wednesday,Nutty Scone,1600,May,92.075,5.075
+2017-05-25,Thursday,Baked Donut,1500,May,92.1,5.1
+2017-05-25,Thursday,Irish Scone,1500,May,92.1,5.1
+2017-05-28,Sunday,Spiced Peanut,1200,May,92.175,5.175
+2017-05-28,Sunday,Sticky Bun,1700,May,90.421,5.175
+2017-05-29,Monday,Croissant,1600,May,92.2,5.2
+2017-05-29,Monday,Pecan Muffin,1600,May,92.2,5.2
+2017-05-30,Tuesday,Banana Muffin,1700,May,92.225,5.225
+2017-05-30,Tuesday,Coconut Muffin,1700,May,92.225,5.225
+2017-05-31,Wednesday,Granola Bar,1700,May,91.872,5.25
+2017-05-31,Wednesday,Nutty Scone,1700,May,92.25,5.25
+2017-06-01,Thursday,Lemon Scone,1600,June,92.275,5.275
+2017-06-01,Thursday,Energy Bar,1700,June,92.275,5.275
+2017-06-01,Thursday,Caramel Tart,1600,June,92.275,5.275
+2017-06-04,Sunday,Irish Bread,1400,June,92.35,5.35
+2017-06-04,Sunday,Oatmeal Scone,1700,June,92.35,5.35
+2017-06-05,Monday,Lemon Scone,1800,June,92.375,5.375
+2017-06-05,Monday,Energy Bar,1800,June,92.375,5.375
+2017-06-05,Monday,Nutty Scone,1800,June,92.375,5.375
+2017-06-07,Wednesday,Croissant,1800,June,92.425,5.425
+2017-06-07,Wednesday,Pecan Muffin,1800,June,92.129,5.425
+2017-06-08,Thursday,Bran Muffin,1500,June,92.455,5.45
+2017-06-08,Thursday,Carrot Muffin,1500,June,92.45,5.45
+2017-06-11,Sunday,Walnut Muffin,1800,June,92.525,5.525
+2017-06-11,Sunday,Key Lime Pie,1800,June,94.439,5.525
+2017-06-12,Monday,Coffee Cake,3600,June,92.55,5.55
+2017-06-12,Monday,Nutty Scone,1800,June,92.55,5.55
+2017-06-13,Tuesday,Spiced Peanut,1300,June,92.575,5.575
+2017-06-13,Tuesday,Sticky Bun,1800,June,92.575,5.575
